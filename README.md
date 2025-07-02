@@ -15,8 +15,7 @@ This project is not just a visual copy, but a **practical exercise in mastering 
 ## 🎯 Features
 
 - 🧩 **Fully responsive layout**  
-- 🎨 Pixel-perfect design inspired by Amazon  
-- 📦 Product cards with hover effects   
+- 🎨 Pixel-perfect design inspired by Amazon    
 - 💻 Built using **only HTML5 and CSS3**  
 - 🚫 No JavaScript or backend used—purely frontend  
 - 🌍 Cross-browser compatible  
